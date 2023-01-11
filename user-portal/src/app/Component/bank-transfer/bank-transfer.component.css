@@ -1,0 +1,16 @@
+.container{
+    padding-top: 60px;
+     align-items: center;
+    background-color: light;
+    padding-left: 0;
+    padding-right: 0;
+}
+h3{
+    text-align: center;
+    color: #243d5e;
+}
+.card-body{
+    background-color: rgb(220, 217, 217, 0.5);
+    backdrop-filter: blur(14px);
+}
+

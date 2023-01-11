@@ -1,0 +1,49 @@
+.loan-container{
+    position: relative;
+    bottom: 50px;
+    
+}
+.add-offer-box{
+    padding: 10px;
+    border-style: solid;
+    border-width: .1px;
+    font-family:'Times New Roman', Times, serif;
+    margin-left: 50px;
+    margin-right: 50px;
+    border-radius: 10px;
+    background-color: rgb(220, 217, 217, 0.5);
+    align-items: justify;
+    backdrop-filter: blur(14px);
+    
+}
+.add-offer-box div{
+    margin: 5px;
+}
+.heading{
+    text-align: center;
+}
+.offer-list{
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.active-offers-head-container{
+    margin-left: 40px;
+    margin-right: 40px;
+}
+h3{
+    position: relative;
+    left: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    color: blue;
+}
+h4{
+    color:darkblue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+/* .offer-row{
+    padding-left: 250px;
+} */
